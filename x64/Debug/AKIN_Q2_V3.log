@@ -1,0 +1,5 @@
+﻿  AKIN_Q2_V3.cpp
+C:\Users\eda ase\source\repos\AKIN_Q2_V3\AKIN_Q2_V3.cpp(18,1): warning C4005: 'INT_MAX': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\limits.h(36): message : see previous definition of 'INT_MAX'
+C:\Users\eda ase\source\repos\AKIN_Q2_V3\AKIN_Q2_V3.cpp(55,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  AKIN_Q2_V3.vcxproj -> C:\Users\eda ase\source\repos\AKIN_Q2_V3\x64\Debug\AKIN_Q2_V3.exe
